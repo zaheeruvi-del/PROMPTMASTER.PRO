@@ -1,0 +1,8 @@
+{
+  "name": "PromptMaster Pro",
+  "description": "Professional AI Video & Image Generator Prompt Builder with quick access to top platforms and clipping tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
